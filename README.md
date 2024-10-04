@@ -1,5 +1,7 @@
 Eye Frame Programming
+
   Overview
+  
     Eye Frame Programming is a JavaScript library designed to enhance user experience by tracking eye movement and providing intuitive interactions. 
     This project aims to create innovative applications that respond to users' gaze, making technology more accessible and engaging.
 
@@ -10,13 +12,15 @@ Eye Frame Programming
     Customizable Settings: Adjust sensitivity and responsiveness of tracking.
     Cross-Browser Compatibility: Works seamlessly on major web browsers.
     Lightweight and Fast: Optimized for performance without compromising functionality.
-      Installation
+    
+  Installation
+  
     To get started with Eye Frame Programming, follow these steps:
 
-  Clone the repository:
+        Clone the repository:
   
-    git clone https://github.com/yourusername/eye-frame-programming.git
-    cd eye-frame-programming
+        git clone https://github.com/yourusername/eye-frame-programming.git
+        cd eye-frame-programming
     
   Install dependencies:
   
